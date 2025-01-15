@@ -48,7 +48,7 @@ Make changes in this branch.
 
 ## Part 4: Collaboration
 ### 1. Fork a Repository
-Fork a repository from another account (the instructor can provide a repository for this). (https://github.com/TELE36058-SDNET-2024/github-overview)
+Fork a repository from another account (the instructor can provide a repository for this). (https://github.com/TELE36058-2025/github-overview.git)
 
 ### 2. Clone and Make Changes
 Clone the forked repository, make changes, and push them to your fork.
